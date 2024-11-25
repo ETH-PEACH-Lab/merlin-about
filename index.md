@@ -12,7 +12,7 @@ Merlin addresses this challenge by introducing a **declarative language** specif
 - **Merlin-Lite**: A simplified version enabling concise and minimal code to define animations.
 - **Merlin-Editor**: An intuitive tool that reduces the burden of fine-grained editing through direct manipulation.
 
-The expressiveness of Merlin was demonstrated across a range of examples, and qualitative feedback from instructors highlights its usability and potential to transform the way educational visualizations are created.
+The expressiveness of Merlin was demonstrated across a range of examples, and qualitative feedback from instructors highlights its usability and potential to transform the way educational visualizations are created. 
 
 ### Demos
 <video width="640" height="360" controls>
