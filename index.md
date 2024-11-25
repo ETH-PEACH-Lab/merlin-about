@@ -6,6 +6,10 @@
 
 Merlin addresses this challenge by introducing a **declarative language** specifically for algorithm animations and a streamlined **customized code editor** to simplify their creation. The design of Merlin is informed by an analysis of 400 examples from an online coding platform, examining their structure, common elements, and creation processes.
 
+<div style="text-align: center;">
+  <img src="image.png" alt="alt text" width="500">
+</div>
+
 ### Key Components
 
 - **Merlin**: A powerful declarative language for algorithm animation.
@@ -15,10 +19,14 @@ Merlin addresses this challenge by introducing a **declarative language** specif
 The expressiveness of Merlin was demonstrated across a range of examples, and qualitative feedback from instructors highlights its usability and potential to transform the way educational visualizations are created. 
 
 ### Demos
-<video width="640" height="360" controls>
-  <source src="demo-merlin-1080.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Here is 5 minutes video to help fast understand **Merlin** project :)
+
+<div style="text-align: center;">
+  <video width="640" height="360" controls>
+    <source src="demo-merlin-1080.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ### Related Work
 
