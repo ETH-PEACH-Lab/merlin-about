@@ -7,7 +7,7 @@
 Merlin addresses this challenge by introducing a **declarative language** specifically for algorithm animations and a streamlined **customized code editor** to simplify their creation. The design of Merlin is informed by an analysis of 400 examples from an online coding platform, examining their structure, common elements, and creation processes.
 
 <div style="text-align: center;">
-  <img src="image.png" alt="alt text" width="600">
+  <img src="image.png" alt="alt text" width="960">
 </div>
 
 ### Key Components
