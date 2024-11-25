@@ -30,4 +30,11 @@ Here is 5 minutes video to help fast understand **Merlin** project :)
 
 ### Related Work
 
+#### Thesis
+[Merlin: A Markup Language for Algorithm Animations (2024)](Thesis_Merlin_v2.pdf)
+Author: Shu Wang  
+Supervisor: April Wang    
+
+
 ### Contributor
+[Shu Wang](https://www.linkedin.com/in/shu-wang-488bb5138/)
